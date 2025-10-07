@@ -5,11 +5,12 @@ Tēma - Mākoņdatošanas pamatprincipi un slāņi
 Apraksts - Mākoņdatošana ļauj lietotājiem izmantot datu glabāšanas, apstrādes un programmatūras pakalpojumus, piekļūstot attālināti caur internetu. 
 
 Ko pētīs:
-         Mākoņdatošanas slāņus: (IaaS, PaaS, SaaS).
+
+Mākoņdatošanas slāņus: (IaaS, PaaS, SaaS).
          
-         Mākoņpakalpojumu veidi: (public cloud, private cloud, hybrid cloud).
+Mākoņpakalpojumu veidi: (public cloud, private cloud, hybrid cloud).
          
-         Mākoņdatošanas ieguvumus, problēmas un riskus.
+Mākoņdatošanas ieguvumus, problēmas un riskus.
          
 
 https://datubazes.wordpress.com/2011/02/02/makondatosana/
