@@ -1,0 +1,10 @@
+# Mākoņdatošanas pamatprincipi un slāņi
+
+
+
+
+
+
+
+
+
