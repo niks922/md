@@ -6,6 +6,7 @@ Apraksts - Mākoņdatošana ļauj lietotājiem izmantot datu glabāšanas, apstr
 
 Ko pētīs:
          Mākoņdatošanas slāņus: (IaaS, PaaS, SaaS).
+         
          Mākoņpakalpojumu veidi: (public cloud, private cloud, hybrid cloud).
          
          Mākoņdatošanas ieguvumus, problēmas un riskus.
